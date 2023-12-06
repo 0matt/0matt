@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matija Davidovic</h1>
-<h3 align="center">I'm Full-Stack Developer from Serbia</h3>
+<h3 align="center">I'm Self-Taught Programmer from Serbia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0matt&label=Profile%20views&color=0e75b6&style=flat" alt="0matt" /> </p>
 
-- 🔭 I’m working as **Full-Stack Developer.**
-
-- 🌱 I’m currently learning **cyber security and ethical hacking..**
+- 🌱 I’m currently learning **C,MySQL and SQL**
 
 - 📫 How to reach me **davidovicm.nis@gmail.com**
 
