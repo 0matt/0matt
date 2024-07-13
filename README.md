@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0matt&label=Profile%20views&color=0e75b6&style=flat" alt="0matt" /> </p>
 
 - 🌱 I’m currently learning **C,NodeJS and SQL**
-- **SQL Server Managment Studio 20** too
 
 - 📫 How to reach me **davidovicm.nis@gmail.com**
 
